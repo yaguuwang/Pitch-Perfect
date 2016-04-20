@@ -9,3 +9,5 @@ Following skills are provided by this project:
 4. Functions of IBOutlet and IBAction.
 5. Stack view controller and multi view controller.
 6. Delegation.
+
+Notes: All of the image materials are coming from UDACITY.
